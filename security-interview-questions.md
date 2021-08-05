@@ -1,20 +1,20 @@
 # Encryption and Authentication
    
    * What is a three-way handshake?
-   * How do cookies work?
-   * How do sessions work?
-   * Explain how OAuth works.
+   * How do cookies work? - https://theporkskewer.medium.com/how-do-cookies-work-and-why-are-they-a-security-risk-a43433253004
+   * How do sessions work? - https://theporkskewer.medium.com/how-do-sessions-work-856a6f7cbfb1
+   * Explain how OAuth works. - https://theporkskewer.medium.com/explain-how-oauth-works-d527a92732fd
    * What is a public key infrastructure flow and how would I diagram it?
    * Describe the difference between synchronous and asynchronous encryption.
    * Describe SSL handshake.
    * How does HMAC work?
    * Why HMAC is designed in that way?
    * What is the difference between authentication vs authorization name spaces?
-   * What’s the difference between Diffie-Hellman and RSA?
-   * How does Kerberos work?
+   * What’s the difference between Diffie-Hellman and RSA? - https://theporkskewer.medium.com/whats-the-difference-between-diffie-hellman-and-rsa-a7a9a8923be7
+   * How does Kerberos work? - https://theporkskewer.medium.com/how-does-kerberos-work-caeb83b66576
    * If you're going to compress and encrypt a file, which do you do first and why?
    * How do I authenticate you and know you sent the message?
-   * Should you encrypt all data at rest?
+   * Should you encrypt all data at rest? - https://theporkskewer.medium.com/should-you-encrypt-all-data-at-rest-c68b3493217c
    * What is Perfect Forward Secrecy?
 
 # Network Level and Logging
@@ -69,7 +69,7 @@
    * What do you do if a user brings you a pc that is acting 'weird'? You suspect malware.
    * What is the difference between tcp dump and FWmonitor?
    * Do you know what XXE is?
-   * Explain man-in-the-middle attacks.
+   * Explain man-in-the-middle attacks. - https://theporkskewer.medium.com/explain-man-in-the-middle-attacks-e2636add2428
    * What is a Server Side Request Forgery attack?
    * Describe what are egghunters and their use in exploit development. 
    * How is pad lock icon in browser generated?
